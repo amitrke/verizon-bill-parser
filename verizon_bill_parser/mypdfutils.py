@@ -33,7 +33,7 @@ class MyPDFUtils:
             },
             "v2": {
                 "dateInit": "10/01/2023",
-                "dateEnd": "01/01/2025",
+                "dateEnd": "01/01/2026",
                 "detectVersionFromContent": {
                     "page": 0,
                     "text": "Bill date\nAccount number\nInvoice number\n",
