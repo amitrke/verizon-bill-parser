@@ -1,7 +1,7 @@
 # verizon-bill-parser
 Python Module to parse a Verizon bill and extract the data into a JSON file.
 
-Code is work in progress. It has been tested to work for 2024 Verizon bills.
+It has been tested to work for 2022 to 2025 Verizon bills.
 
 ## Usage
 
